@@ -1,2 +1,0 @@
-# ModelContextProtocol
-MCP Experimentation
